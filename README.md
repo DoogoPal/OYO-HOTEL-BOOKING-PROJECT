@@ -31,8 +31,7 @@ The goal of this project is to analyze key metrics related to hotel bookings and
 - Suggestions to improve operational efficiency based on the analysis.
 
 ## Future Enhancements  
-- Automating the analysis using Python for scalability.  
-- Adding interactive visualizations using Power BI or Tableau.
+  - Adding interactive visualizations using Power BI or Tableau.
 
 ---
 
